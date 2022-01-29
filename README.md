@@ -1,0 +1,2 @@
+# Cricket-Scorecard
+Rename all the column names to their appropriate names, for example meta.created should be renamed as created_date Find out the top three venues which hosted the greatest number of matches. Find out the pair of cricket teams who played the most number of T20 matches against each other. Print the top five teams by their win percentages. Win percentage is defined as the number of matches won divided by the number of matches played and then multiplied by 100. Write a function to get the scorecard of each match.
